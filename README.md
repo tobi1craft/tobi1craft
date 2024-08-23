@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tobi1craft
-- 👀 I’m interested in coding for Minecraft
-- 🌱 I’m currently learning a bit more java
+- 👀 I’m interested in coding and playing Games like Valorant and Minecraft
+- 🌱 Java, Javascript, Python 
 - 📫 How to reach me tobi1craft.mc@gmail.com
 
 <!---
